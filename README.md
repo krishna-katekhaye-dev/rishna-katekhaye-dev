@@ -1,4 +1,14 @@
 <!-- Header Banner -->
+<h1 align="center">👋 Hey there, I'm Krishna Katekhaye</h1>
+<h3 align="center">💻 Information Technology Student | Python Developer | Web Enthusiast</h3>
+
+---
+
+
+
+
+
+
 <p align="center">
 <img src="https://imgs.search.brave.com/VP4sAcl6R_fhT1pYBTnBKMuVhPUOJm4GPHfTcKLVd5I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvbGFwdG9w/LXdpdGgtZ3JlZW4t/c2NyZWVuLXNob3dp/bmctcHJvZ3JhbW1p/bmctY29kZS1pbGx1/c3RyYXRpb24tc3Zn/LWRvd25sb2FkLXBu/Zy0xMDA4NzIwNy5w/bmc"alt="Typing SVG" />
 </p>
@@ -41,10 +51,6 @@
 
 ---
 
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakatekhaye&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
-</p>
 
 ---
 
