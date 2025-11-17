@@ -2,18 +2,10 @@
 <h1 align="center">👋 Hey there, I'm Krishna Katekhaye</h1>
 <h3 align="center">💻 Information Technology Student | Python Developer | Web Enthusiast</h3>
 
----
-
-
-
-
-
-
 <p align="center">
 <img src="https://imgs.search.brave.com/VP4sAcl6R_fhT1pYBTnBKMuVhPUOJm4GPHfTcKLVd5I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvbGFwdG9w/LXdpdGgtZ3JlZW4t/c2NyZWVuLXNob3dp/bmctcHJvZ3JhbW1p/bmctY29kZS1pbGx1/c3RyYXRpb24tc3Zn/LWRvd25sb2FkLXBu/Zy0xMDA4NzIwNy5w/bmc"alt="Typing SVG" />
 </p>
 
----
 
 ## 💼 Tech Stack
 
@@ -21,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,python,html,css,git,github,,vscode,figma,gmail" />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -32,28 +24,15 @@
 
 - 🌐 **Personal Portfolio Website**
   - HTML, CSS, JS — Hosted on GitHub Pages  
-  - [🔗 Live Demo](https://krishnakatekhaye.github.io/)
-
----
+  - [🔗 my portfolio demo](https://krishna-katekhaye-dev.github.io/portfoli/)
 
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnakatekhaye&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakatekhaye&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishnakatekhaye" target="_blank">
+  <a href="https://www.linkedin.com/in/krishna-katekhaye-863b8b315/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:krishnakatekhaye@gmail.com">
