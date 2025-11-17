@@ -1,11 +1,68 @@
-# 👋 Hi, I'm Krishna Katekhaye
+<!-- Header Banner -->
+<p align="center">
+<img src="https://imgs.search.brave.com/VP4sAcl6R_fhT1pYBTnBKMuVhPUOJm4GPHfTcKLVd5I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvbGFwdG9w/LXdpdGgtZ3JlZW4t/c2NyZWVuLXNob3dp/bmctcHJvZ3JhbW1p/bmctY29kZS1pbGx1/c3RyYXRpb24tc3Zn/LWRvd25sb2FkLXBu/Zy0xMDA4NzIwNy5w/bmc"alt="Typing SVG" />
+</p>
 
-🎓 Information Technology Student | 💻 Passionate about Python, Web Dev, and Data
+---
 
-## 🔧 Tech Stack
-- **Languages:**  Python, C, HTML, CSS, JavaScript 
-- **Tools:** Git, GitHub, VS Code  
-- **Currently Learning:** Flask, MySQL, React, Python, C, HTML, CSS, JavaScript 
+## 💼 Tech Stack
 
-## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/krishna-katekhaye-863b8b315/) • [Portfolio](https://krishna-katekhaye-dev.github.io/portfoli/)     
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python,html,css,git,github,,vscode,figma,gmail" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Python & Web Projects
+- 🎯 **Student Result Management System**
+  - File handling, Tkinter GUI, and CSV-based backend  
+  - [🔗 Repo](https://github.com/krishnakatekhaye/student-result-system)
+
+- 🌐 **Personal Portfolio Website**
+  - HTML, CSS, JS — Hosted on GitHub Pages  
+  - [🔗 Live Demo](https://krishnakatekhaye.github.io/)
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnakatekhaye&theme=matrix&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnakatekhaye&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakatekhaye&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakatekhaye&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishnakatekhaye" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:krishnakatekhaye@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+
+  </a>
+  <a href="https://krishnakatekhaye.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?logo=firefox&logoColor=white" />
+  </a>
+</p>
+## 🧩 Random Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
